@@ -18,10 +18,6 @@ document.addEventListener('keydown', function (event) {
     nigajump();
 });
 
- window.addEventListener('DOMContentLoaded'), () => {
-    nigajump();
-});
-
 
 function nigajump() {
     if (niga.classList != 'nigajump') {
